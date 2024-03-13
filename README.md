@@ -1,4 +1,4 @@
 # firstgithub
 Author- Gunjan ahuja,
-<brt>
+<br>
 this is my first Github
